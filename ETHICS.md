@@ -34,6 +34,6 @@ If you find a real security issue in a third-party service:
 
 When reporting an issue, you can use this template (fill in specifics and avoid step-by-step exploit instructions):
 
-**Subject:** Security Report — [Short title / component]
+
 
 **Body:**
